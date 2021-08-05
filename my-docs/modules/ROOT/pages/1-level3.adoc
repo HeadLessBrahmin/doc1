@@ -1,0 +1,13 @@
+==== 1.1.1. Nadpis!
+
+Tady bude ukázka obrázků.
+
+Tenhle je vložený odkazem z netu:
+
+image::https://upload.wikimedia.org/wikipedia/commons/b/bb/Space_Shuttle_Discovery_Landing_after_STS-124.jpg[]
+
+A tenhle je lokálně ve složce "images" v komponentě ROOT:
+
+image::ROOT:1280px-Discovery_mission_completed_q.jpg[]
+
+NOTE: Jo, jsem maličko ujetej na raketoplány.
