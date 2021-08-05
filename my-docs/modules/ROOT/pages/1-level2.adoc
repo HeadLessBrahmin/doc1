@@ -1,0 +1,26 @@
+=== 1.1. Kapitola nebo něco já nevím
+
+Tady bude odrážkový seznam.
+
+.Seznam
+- Bod jedna
+- Bod dva
+- bod tři
+
+Teď vyzkouším Unordered List
+
+* něco
+* něco
+** něco
+*** něco
+
+A teď prubnu Ordered list
+
+. něco
+. něco
+.. něco
+.. něco
+... něco
+... něco
+
+IMPORTANT: Nezapomeňte si čistit zuby alespoň 2x denně.
