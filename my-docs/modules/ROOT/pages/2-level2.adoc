@@ -1,0 +1,24 @@
+=== 1.2. Velmi popisný nadpis
+
+A sem hodím ukázky kódu, protože proč ne.
+
+Tohle je asi nejjednodušší způsob. Žádné rozpoznávání syntaxe nebo tak se nekoná:
+
+ helper.filterAndClean("Typ konektoru", object);
+ helper.filterAndClean("Název", object);
+
+Nebo takto:
+
+....
+helper.filterAndClean("Typ konektoru", object);
+helper.filterAndClean("Název", object);
+....
+
+A nebo se zvýrazněním syntaxe. Je ale potřeba říct AsciiDocu v jakém jazyce je to napsané:
+
+.Fakt hustej Java kód
+[source,java]
+----
+helper.filterAndClean("Typ konektoru", object);
+helper.filterAndClean("Název", object);
+----
