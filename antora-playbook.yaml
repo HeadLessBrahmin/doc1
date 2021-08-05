@@ -1,7 +1,8 @@
 site:
   title: Dokument jedna
+#  url: https://site.domain
   start_page: ROOT::index.adoc
-  #komponentové jméno u start_page se musí shodovat s položkou "name" z antora.yml
+  # komponentové jméno u start_page se musí shodovat s položkou "name" z antora.yml
 content:
   sources:
   - url: https://github.com/NeitherWolf/doc1
