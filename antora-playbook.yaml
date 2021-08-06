@@ -10,8 +10,18 @@ content:
     start_path: my-docs
 ui:
   bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
+    url: C:\Users\msvinka\Desktop\antora\pokus2\theme\theme1-main\ui-bundle.zip
     snapshot: true
 
 # root soubor dokumentu (např. index.adoc) neuvádět v navigačním souboru (nav.adoc).
 # ve stromu stránek modulu bude zobrazený i tak jako počátek dokumentu.
+
+# UI se musí editovat pomocí UI projektu!
+# hlavní soubor, ovládající rozložení, je antora-ui-default/src/partials/header-content.hbs
+# detaily v dokumentaci: https://docs.antora.org/antora-ui-default/
+# včetně instalace dodatečných nástrojů pro buildování a preview
+
+# kurva nemohli to udělat trochu víc user-friendly... třeba s WYSIWIG editorem nebo tak.
+# ne, prostě co linuxák, to vývojář, takže si s tím poradí. a já se tady můžu posrat...
+
+# ui-bundle.zip je možné nastavit na repo, nebo na lokální složku
