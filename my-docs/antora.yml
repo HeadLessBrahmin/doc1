@@ -3,3 +3,5 @@ title: Dokument jedna
 version: '1'
 nav:
   - modules/ROOT/nav.adoc
+
+# antora-playbook.yaml obsahuje poznámky ke struktuře projektu

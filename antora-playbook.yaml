@@ -12,3 +12,6 @@ ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/master/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+
+# root soubor dokumentu (např. index.adoc) neuvádět v navigačním souboru (nav.adoc).
+# ve stromu stránek modulu bude zobrazený i tak jako počátek dokumentu.
