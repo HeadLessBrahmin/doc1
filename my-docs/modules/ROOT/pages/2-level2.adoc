@@ -1,4 +1,4 @@
-=== 1.2. Velmi popisný nadpis
+= 1.2. Velmi popisný nadpis
 
 A sem hodím ukázky kódu, protože proč ne.
 

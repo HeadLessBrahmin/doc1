@@ -1,4 +1,4 @@
-=== 1.1. Kapitola nebo něco já nevím
+= 1.1. Kapitola nebo něco já nevím
 
 Tady bude odrážkový seznam.
 
