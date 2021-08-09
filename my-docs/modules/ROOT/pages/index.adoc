@@ -8,6 +8,7 @@ A hlavně to, jestli Antora zvládá češtinu.
 
 Budu zkoušet různé formátování a styly. Jsem docela zvědavý co z toho celého vypadne, protože jsem zatím testoval jenom drobnosti. Tohle je největší test, kterému tu věc chci podrobit.
 
+Název Q&A seznamu::
 [qanda]
 K čemu to bude sloužit?::
 K testu rozložení, zobrazení jazyka a tak.
