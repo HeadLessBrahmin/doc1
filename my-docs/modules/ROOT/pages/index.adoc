@@ -1,6 +1,12 @@
-= ÚVODNÍ STRÁNKA
+= 1. ÚVODNÍ STRÁNKA
 
-== 1. Nadpis první úrovně
+== Nadpis první úrovně
+
+=== Nadpis druhé úrovně
+
+==== Nadpis třetí úrovně
+
+===== Nadpis čtvrté úrovně
 
 Tohle je naprosto výplňový text verze *{page-component-version}*. Neslouží žádnému informativnímu účelu kromě toho, že na něm testuju AsciiDoc a Antoru.
 
