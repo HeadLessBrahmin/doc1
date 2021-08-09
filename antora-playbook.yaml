@@ -1,5 +1,5 @@
 site:
-  title: Dokument jedna
+  title: Test Antora dokumentace
 #  url: https://site.domain
   start_page: ROOT::index.adoc
   # komponentové jméno u start_page se musí shodovat s položkou "name" z antora.yml

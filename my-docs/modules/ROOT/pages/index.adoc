@@ -1,4 +1,4 @@
-= test1
+= Název celého dokumentu
 
 == 1. Nadpis první úrovně
 
