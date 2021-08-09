@@ -21,7 +21,5 @@ ui:
 # detaily v dokumentaci: https://docs.antora.org/antora-ui-default/
 # včetně instalace dodatečných nástrojů pro buildování a preview
 
-# kurva nemohli to udělat trochu víc user-friendly... třeba s WYSIWIG editorem nebo tak.
-# ne, prostě co linuxák, to vývojář, takže si s tím poradí. a já se tady můžu posrat...
-
-# ui-bundle.zip je možné nastavit na repo, nebo na lokální složku
+# ui-bundle.zip je možné nastavit na repo, nebo na lokální složku - akorát z repa mi to
+# zatím nefunguje.
