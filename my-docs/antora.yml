@@ -1,5 +1,5 @@
-name: ROOT
-title: Dokument jedna
+name: document1
+title: Dokument 1
 version: '1'
 nav:
   - modules/ROOT/nav.adoc
