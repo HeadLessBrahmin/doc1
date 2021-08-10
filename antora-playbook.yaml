@@ -13,7 +13,7 @@ content:
     start_path: my-other-docs
 ui:
   bundle:
-    url: C:\Users\msvinka\Desktop\antora\pokus2\theme\theme work\antora-ui-default-master\build\ui-bundle.zip
+    url: C:\Users\msvinka\Desktop\antora\pokus2\theme\theme work\antora-test-ui\build\ui-bundle.zip
     snapshot: true
 
 # root soubor dokumentu (např. index.adoc) neuvádět v navigačním souboru (nav.adoc).
