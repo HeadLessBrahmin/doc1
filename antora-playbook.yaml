@@ -1,23 +1,26 @@
 site:
   title: Test Antora dokumentace
 #  url: https://site.domain
-  start_page: ROOT::index.adoc
+  start_page: document1::index.adoc
   # komponentové jméno u start_page se musí shodovat s položkou "name" z antora.yml
 content:
   sources:
   - url: https://github.com/NeitherWolf/doc1
     branches: main
     start_path: my-docs
+  - url: https://github.com/NeitherWolf/doc2
+    branches: main
+    start_path: my-other-docs
 ui:
   bundle:
-    url: C:\Users\msvinka\Desktop\antora\pokus2\theme\theme1-main\ui-bundle.zip
+    url: C:\Users\msvinka\Desktop\antora\pokus2\theme\theme work\antora-ui-default-master\build\ui-bundle.zip
     snapshot: true
 
 # root soubor dokumentu (např. index.adoc) neuvádět v navigačním souboru (nav.adoc).
 # ve stromu stránek modulu bude zobrazený i tak jako počátek dokumentu.
 
 # UI se musí editovat pomocí UI projektu!
-# hlavní soubor, ovládající rozložení, je antora-ui-default/src/partials/header-content.hbs
+# hlavní soubor, ovládající rozložení záhlaví, je antora-ui-default/src/partials/header-content.hbs
 # detaily v dokumentaci: https://docs.antora.org/antora-ui-default/
 # včetně instalace dodatečných nástrojů pro buildování a preview
 
