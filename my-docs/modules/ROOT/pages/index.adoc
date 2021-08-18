@@ -10,7 +10,7 @@
 
 Tohle je naprosto výplňový text verze *{page-component-version}*. Neslouží žádnému informativnímu účelu kromě toho, že na něm testuju AsciiDoc a Antoru.
 
-A hlavně to, jestli Antora zvládá češtinu.
+A hlavně to, jestli Antora zvládá češtinu. Každopádně ale *tohle je tučný text* a ještě _tohle je kurzíva_. Snad to funguje. Pro jistotu *_ještě zkusím tučnou kurzívu_*.
 
 Tohle je úvodní stránka Dokumentu jedna, která je zároveň nastavená i jako homepage celého projektu. nachází se v modulu ROOT jako soubor `+index.adoc+`.
 
