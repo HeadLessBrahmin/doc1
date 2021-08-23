@@ -1,6 +1,6 @@
 = 1.1. Kapitola nebo něco já nevím
 
-Tady bude odrážkový seznam. Formátování v AsciiDocu je vážně radost. Možná ho začnu používat na všechno, co kde píšu. 
+Tady bude odrážkový seznam. Formátování v AsciiDocu je vážně radost. Možná ho začnu používat na všechno, co kde píšu.
 
 .Seznam
 - Bod jedna
@@ -12,6 +12,11 @@ Teď vyzkouším Unordered List
 * něco
 * něco vtipného
 ** něco popisného
++
+takhle jde do jedné odrážky dokonce přidat více odstavců
++
+tohle je třeba třetí blok textu, ale pořád patří pod jednu odrážku
+** něco inteligentního
 *** něco, co stojí za to sdělit
 +
 TIP: Heh, dokonce jde udělat admonition block uvnitř odrážkového seznamu
