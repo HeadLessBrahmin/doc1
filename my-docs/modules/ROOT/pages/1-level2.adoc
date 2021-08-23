@@ -1,6 +1,6 @@
 = 1.1. Kapitola nebo něco já nevím
 
-Tady bude odrážkový seznam.
+Tady bude odrážkový seznam. Formátování v AsciiDocu je vážně radost. Možná ho začnu používat na všechno, co kde píšu. 
 
 .Seznam
 - Bod jedna
