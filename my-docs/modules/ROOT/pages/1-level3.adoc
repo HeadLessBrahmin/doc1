@@ -1,4 +1,4 @@
-==== 1.1.1. Nadpis!
+== 1.2. Nadpis!
 
 Tady bude ukázka obrázků.
 

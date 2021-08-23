@@ -10,9 +10,13 @@ Tady bude odrážkový seznam.
 Teď vyzkouším Unordered List
 
 * něco
-* něco
-** něco
-*** něco
+* něco vtipného
+** něco popisného
+*** něco, co stojí za to sdělit
++
+TIP: Heh, dokonce jde udělat admonition block uvnitř odrážkového seznamu
+
+*** nějaký další text
 
 A teď prubnu Ordered list
 
