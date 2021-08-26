@@ -4,7 +4,7 @@
 :imagesdir: {moduledir}\images
 :partialsdir: {moduledir}\partials
 
-= 1. ÚVODNÍ STRÁNKA
+= 1. NÁZEV CELÉHO DOKUMENTU
 
 == Nadpis první úrovně
 
@@ -14,7 +14,7 @@
 
 ===== Nadpis čtvrté úrovně
 
-Tohle je naprosto výplňový text verze *{page-component-version}*. Neslouží žádnému informativnímu účelu kromě toho, že na něm testuju AsciiDoc a Antoru.
+Tohle je naprosto výplňový text verze *{page-component-version}*. Neslouží žádnému informativnímu účelu kromě toho, že na něm testuju https://en.wikipedia.org/wiki/AsciiDoc[AsciiDoc] a https://antora.org/[Antoru].
 
 A hlavně to, jestli Antora zvládá češtinu. Každopádně ale *tohle je tučný text* a ještě _tohle je kurzíva_. Snad to funguje. Pro jistotu *_ještě zkusím tučnou kurzívu_*.
 
