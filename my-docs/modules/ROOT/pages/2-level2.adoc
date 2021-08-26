@@ -47,7 +47,7 @@ A ještě by to chtělo tabulku. Tak sem jednu přidáme. V záhlaví v proměnn
 Nebo možná i víc. Taky zkusím nastavit poměr velikostí jednotlivých sloupců.
 
 .Jde to i formátovaně
-[cols="1,1,6"]
+[cols="1,1,6", frame=all, grid=all]
 |===
 |Jméno |Kategorie |Popis
 
