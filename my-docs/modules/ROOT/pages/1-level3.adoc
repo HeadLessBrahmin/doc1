@@ -1,3 +1,6 @@
+:moduledir: ..
+:imagesdir: {moduledir}\images
+
 == 1.1.1. Nadpis!
 
 Tady bude ukázka obrázků.
@@ -8,6 +11,6 @@ image::https://upload.wikimedia.org/wikipedia/commons/b/bb/Space_Shuttle_Discove
 
 A tenhle je lokálně ve složce "images" v komponentě ROOT:
 
-image::ROOT:1280px-Discovery_mission_completed_q.jpg[]
+image:1280px-Discovery_mission_completed_q.jpg[]
 
 NOTE: Jo, jsem maličko ujetej na raketoplány.
