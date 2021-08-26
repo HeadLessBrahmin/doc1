@@ -4,7 +4,9 @@
 :imagesdir: {moduledir}\images
 :partialsdir: {moduledir}\partials
 
-= 1.2. Velmi popisný nadpis
+:table-caption!:
+
+== 1.2. Velmi popisný nadpis
 
 A sem hodím ukázky kódu, protože proč ne.
 
@@ -28,3 +30,52 @@ A nebo se zvýrazněním syntaxe. Je ale potřeba říct AsciiDocu v jakém jazy
 helper.filterAndClean("Typ konektoru", object);
 helper.filterAndClean("Název", object);
 ----
+
+A ještě by to chtělo tabulku. Tak sem jednu přidáme. V záhlaví v proměnných jsem vypnul automatické přidělování labelů tabulkám, jednu z funkcí AsciiDocu, protože se přidělovaly v angličtině a takovej borec, abych dokázal lokalizovat celý značkovací jazyk, fakt nejsem.
+
+.Jméno tabulky
+|===
+|Sloupeček jedna |Sloupeček dvě
+
+|řádek 1, hodnota 1
+|řádek 1, hodnota 2
+
+|řádek 2, hodnota 1
+|řádek 2, hodnota 2
+|===
+
+Nebo možná i víc. Taky zkusím nastavit poměr velikostí jednotlivých sloupců.
+
+.Jde to i formátovaně
+[cols="1,1,6"]
+|===
+|Jméno |Kategorie |Popis
+
+|Tony
+|ryba
+|Ryba jménem Tony je imaginární postavou, kterou komik Tim Minchin užil v jednom svém vystoupení jako hypotetickou první živou bytost, co měla nohy.
+
+|Marvin
+|robot
+|Marvin je legendární robot s depresí ze série komediálních scifi knih od Douglase Adamse, které se točí okolo Stopařova průvodce po galaxii.
+|===
+
+To by šlo. Jedeme dál.
+
+.Tabulka může obsahovat i obrázky
+[cols="2,1"]
+|===
+|Fotka |Raketoplán
+
+|image:Space_Shuttle_Columbia_lands_following_STS-62_on_18_March_1994._(cropped).jpg[]
+|*Columbia* - První raketoplán, který vstoupil do služby. Poprvé letěl v roce 1981.
+
+Bohužel jednou při vstupu do atmosféry vybuchl a vzal s sebou celou posádku. Smutný, ale hodně zajímavý příběh.
+
+|image:275102main_EC85-33180-1_full_full (1).jpg[]
+|*Atlantis* - Čtvrtý raketoplán, který vstoupil do služby. Narozdíl od Columbie nevybuchl a je tedy možné si ho prohlédnout v muzeu.
+|===
+
+NOTE: Teď vážně. Raketoplány byly děsně cool, ale taky to byly docela smrtelné pasti. Asi je dobře, že už nelétají, i když moci sledovat start něčeho takového muselo být naprosto dechberoucí.
+
+Stejně tak se do tabulek dá vložit code snippet, admontion block, nebo vlastně cokoliv kohokoliv napadne. Formátování v AsciiDocu se vážně meze nekladou.
