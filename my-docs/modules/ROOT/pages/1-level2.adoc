@@ -1,3 +1,9 @@
+:moduledir: ..
+:attachmentsdir: {moduledir}\attachments
+:examplesdir: {moduledir}\examples
+:imagesdir: {moduledir}\images
+:partialsdir: {moduledir}\partials
+
 = 1.1. Kapitola nebo něco já nevím
 
 Tady bude odrážkový seznam. Formátování v AsciiDocu je vážně radost. Možná ho začnu používat na všechno, co kde píšu.
