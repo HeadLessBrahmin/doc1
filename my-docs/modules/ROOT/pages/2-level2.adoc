@@ -10,6 +10,8 @@
 
 A sem hodím ukázky kódu, protože proč ne.
 
+=== Ukázky kódu
+
 Tohle je asi nejjednodušší způsob. Žádné rozpoznávání syntaxe nebo tak se nekoná:
 
  helper.filterAndClean("Typ konektoru", object);
@@ -31,7 +33,11 @@ helper.filterAndClean("Typ konektoru", object);
 helper.filterAndClean("Název", object);
 ----
 
-A ještě by to chtělo tabulku. Tak sem jednu přidáme. V záhlaví v proměnných jsem vypnul automatické přidělování labelů tabulkám, jednu z funkcí AsciiDocu, protože se přidělovaly v angličtině a takovej borec, abych dokázal lokalizovat celý značkovací jazyk, fakt nejsem.
+A ještě by to chtělo tabulky.
+
+=== Ukázka tabulek
+
+Tak sem jednu přidáme. V záhlaví v proměnných jsem vypnul automatické přidělování labelů tabulkám, jednu z funkcí AsciiDocu, protože se přidělovaly v angličtině a takovej borec, abych dokázal lokalizovat celý značkovací jazyk, fakt nejsem.
 
 .Jméno tabulky
 |===
