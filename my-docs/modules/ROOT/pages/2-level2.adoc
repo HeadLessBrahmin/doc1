@@ -6,7 +6,7 @@
 
 :table-caption!:
 
-== 1.2. Velmi popisný nadpis
+== Velmi popisný nadpis
 
 A sem hodím ukázky kódu, protože proč ne.
 

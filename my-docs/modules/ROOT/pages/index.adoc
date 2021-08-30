@@ -4,7 +4,7 @@
 :imagesdir: {moduledir}\images
 :partialsdir: {moduledir}\partials
 
-= 1. NÁZEV CELÉHO DOKUMENTU
+= NÁZEV CELÉHO DOKUMENTU
 
 == Nadpis první úrovně
 

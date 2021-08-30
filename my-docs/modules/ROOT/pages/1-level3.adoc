@@ -4,7 +4,7 @@
 :imagesdir: {moduledir}\images
 :partialsdir: {moduledir}\partials
 
-== 1.1.1. Nadpis!
+== Nadpis!
 
 Tady bude ukázka obrázků.
 
